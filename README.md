@@ -3,7 +3,7 @@ This repo consist in an assignment for the Dev position in our team.
 
 Project scope: 
 Construct a persentation website for a Fictive Pension. Besides accomodation the pension offers various experiences depending on the outside weather. 
-The website must have a reservation form consiting of: fullName, check-in, check-out, number of people, and a checkbox if the client has childrens.
+The website must have a reservation form consiting of: fullName, check-in, check-out, number of people, and a checkbox whether or not the client has childrens.
 
 
 User story: as Experience Manager of the Fictive Pension I want to assign to new reservations depending on the current outside weather.
